@@ -2,7 +2,7 @@
 
  Jupyter Notebook analysis exported to a static HTML site and hosted on GitHub Pages.
 
- Live demo: https://kyleewinterringer19-bot.github.io/Statistical-Data-Analysis-Project/
+ Live demo: [https://kyleewinterringer19-bot.github.io/Statistical-Data-Analysis-Project/](https://kyleewinterringer19-bot.github.io/Statistical-Data-Analysis-Project/)
 
  ## How to view locally
 
