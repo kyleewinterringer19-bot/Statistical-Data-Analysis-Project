@@ -15,7 +15,7 @@
 
  ## Author
 
- Kyle E. Winterringer
+ Kylee J. Winterringer
 
  ## License
 
